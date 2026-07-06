@@ -8,6 +8,8 @@ import util.ArchivoUtil;
 import java.io.File;
 import javax.swing.JFileChooser;
 import excepciones.ArchivoException;
+
+//En este documento se ejecutan las ventana
 /**
  *
  * @author fiore
@@ -24,7 +26,7 @@ public class MainFrame extends javax.swing.JFrame {
         
         estadisticaPanel1.setNegocio(productoPanel1.getNegocio());
     }
-    
+   
 
     /**
      * This method is called from within the constructor to initialize the form.

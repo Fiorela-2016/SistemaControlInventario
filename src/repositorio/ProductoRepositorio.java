@@ -11,6 +11,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.Stack;
 import modelo.Producto;
+// Aqui se encuentran varios metodos
 /**
  *
  * @author fiore
